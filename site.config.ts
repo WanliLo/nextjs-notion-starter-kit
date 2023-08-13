@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Wanli',
 
   // open graph metadata (optional)
-  description: 'Wanli's Notes',
+  description: 'Notes',
 
   // social usernames (optional)
   //twitter: '#',
